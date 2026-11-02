@@ -2,15 +2,6 @@
 
 An interactive Retail Sales Analytics Dashboard developed using Microsoft Power BI, DAX, Excel and data modelling techniques.
 
-## Project Overview
-
-This project analyses retail sales transactions to provide insights into revenue, quantity sold, product performance and profitability.
-
-The dashboard enables business users to explore sales trends and evaluate performance using interactive filters and visualisations.
-# Retail Sales Analytics Dashboard | Power BI
-
-An interactive Retail Sales Analytics Dashboard developed using Microsoft Power BI, DAX, Excel and data modelling techniques.
-
 ## Dashboard Preview
 
 ![Retail Sales Dashboard](Dashboard/Retail%20Dashboard%20Image.jpeg)
